@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651404894521",
+    "project_id": "walletwise-e01da",
+    "storage_bucket": "walletwise-e01da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651404894521:android:cb6cd2bc17d646a1fe48e8",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651404894521-n0c93us66t7h0emmn4vmtn8blu7mh3k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon",
+            "certificate_hash": "f3d042da816bf082be4f971746f6602367a8fce9"
+          }
+        },
+        {
+          "client_id": "651404894521-k76dbcbju1ihb08aodssq5pibrg5ocso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcKGNEPDYIdF8trCwWZT_6FLlHaWykA8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651404894521-k76dbcbju1ihb08aodssq5pibrg5ocso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
