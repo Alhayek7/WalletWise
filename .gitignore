@@ -1,0 +1,8 @@
+.dart_tool/
+build/
+.idea/
+*.iml
+*.lock
+Screenrecorder-*.mp4
+ios/
+.pub-cache/
